@@ -6,4 +6,6 @@ User stories are useful for the same reason use cases are; they communicate the 
 
 User stories should contain a [[Vertical Slice]] of functionality, implying that the implementation of a user story should include everything needed to do what the user wants. This is to provide immediate business value that is testable. User stories are ["a chunk of functionality that is of value to the customer"](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)
 
+User stories should try and be written in the style of [[INVEST]], a guideline for writing good user stories.
+
 Related: [[User Story Styles]]

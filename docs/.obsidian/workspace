@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "4f58e7159998afa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "54be6a6b16ad20dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Architecture/User Stories/User Stories.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3403853a0cf6b400",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9a2e42b985796e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b03296732d663de1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d5deebc5f92cf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9dd4f82f5345c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d441d112f54517a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff674865275b85b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2b4dcf74e7bfdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Architecture/User Stories/User Stories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229059cc8a7f2005",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Architecture/User Stories/User Stories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23c56cb4b0e3d339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67559a035e2d0236",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Architecture/User Stories/User Stories.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "54be6a6b16ad20dc",
+  "lastOpenFiles": [
+    "Software Architecture/User Stories/Vertical Slice.md",
+    "Software Architecture/User Stories/User Stories.md",
+    "Software Architecture/User Stories/INVEST.md",
+    "Software Architecture/Use Cases/Use Case Descriptions.md"
+  ]
+}
