@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Architecture/User Stories/User Stories.md",
+            "file": "Software Architecture/User Stories/INVEST.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md",
+                "file": "Software Architecture/User Stories/INVEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md",
+                "file": "Software Architecture/User Stories/INVEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md"
+                "file": "Software Architecture/User Stories/INVEST.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "54be6a6b16ad20dc",
   "lastOpenFiles": [
-    "Software Architecture/User Stories/Vertical Slice.md",
     "Software Architecture/User Stories/User Stories.md",
+    "Software Architecture/User Stories/Vertical Slice.md",
     "Software Architecture/User Stories/INVEST.md",
     "Software Architecture/Use Cases/Use Case Descriptions.md"
   ]

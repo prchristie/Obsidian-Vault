@@ -6,3 +6,7 @@
 | E      | Estimatable                               |
 | S      | Small enough to fit in a single iteration |
 | T      | Testable                                  | 
+
+
+Reference:
+https://www.agilealliance.org/glossary/invest/
