@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Architecture/User Stories/User Stories.md",
+            "file": "Software Architecture/User Stories/Agile Granularity.md",
             "mode": "source",
             "source": false
           }
@@ -55,7 +55,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Software Architecture/User Stories/User Story Granularity.png"
+                "file": "Software Architecture/User Stories/Agile Granularity Image.png"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md",
+                "file": "Software Architecture/User Stories/Agile Granularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md",
+                "file": "Software Architecture/User Stories/Agile Granularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/User Stories/User Stories.md"
+                "file": "Software Architecture/User Stories/Agile Granularity.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "9633a57d3af57633",
   "lastOpenFiles": [
-    "Software Architecture/User Stories/INVEST.md",
-    "Software Architecture/User Stories/User Story Granularity.png",
+    "Working from use cases to user stories to tasks.md",
+    "Software Architecture/Agile Development.md",
+    "Software Architecture/User Stories/Agile Granularity.md",
+    "Software Architecture/User Stories/Agile Granularity Image.png",
     "Software Architecture/User Stories/User Stories.md",
+    "Software Architecture/User Stories/Vertical Slice.md",
+    "Software Architecture/User Stories/INVEST.md",
     "Software Architecture/Use Cases/Use Case.md",
     "Software Architecture/Use Cases/System.md",
-    "Software Architecture/Use Cases/Use Case Diagram.md",
-    "Software Architecture/Use Cases/Use case in use case diagram.png",
-    "Software Architecture/Use Cases/Use Case Descriptions.md",
-    "Software Architecture/User Stories/Vertical Slice.md",
-    "Untitled.md"
+    "Software Architecture/Use Cases/Use Case Diagram.md"
   ]
 }
