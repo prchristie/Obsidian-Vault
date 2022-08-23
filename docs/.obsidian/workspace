@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "54be6a6b16ad20dc",
+        "id": "9633a57d3af57633",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Architecture/User Stories/INVEST.md",
+            "file": "Software Architecture/User Stories/User Stories.md",
             "mode": "source",
             "source": false
           }
@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "54be6a6b16ad20dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Software Architecture/User Stories/User Story Granularity.png"
+              }
+            }
+          },
+          {
             "id": "5c9dd4f82f5345c2",
             "type": "leaf",
             "state": {
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/User Stories/INVEST.md",
+                "file": "Software Architecture/User Stories/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/User Stories/INVEST.md",
+                "file": "Software Architecture/User Stories/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/User Stories/INVEST.md"
+                "file": "Software Architecture/User Stories/User Stories.md"
               }
             }
           }
@@ -128,11 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54be6a6b16ad20dc",
+  "active": "9633a57d3af57633",
   "lastOpenFiles": [
-    "Software Architecture/User Stories/User Stories.md",
-    "Software Architecture/User Stories/Vertical Slice.md",
     "Software Architecture/User Stories/INVEST.md",
-    "Software Architecture/Use Cases/Use Case Descriptions.md"
+    "Software Architecture/User Stories/User Story Granularity.png",
+    "Software Architecture/User Stories/User Stories.md",
+    "Software Architecture/Use Cases/Use Case.md",
+    "Software Architecture/Use Cases/System.md",
+    "Software Architecture/Use Cases/Use Case Diagram.md",
+    "Software Architecture/Use Cases/Use case in use case diagram.png",
+    "Software Architecture/Use Cases/Use Case Descriptions.md",
+    "Software Architecture/User Stories/Vertical Slice.md",
+    "Untitled.md"
   ]
 }
