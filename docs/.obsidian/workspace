@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Architecture/User Stories/Agile Granularity.md",
+            "file": "Software Architecture/Agile Granularity.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/User Stories/Agile Granularity.md",
+                "file": "Software Architecture/Agile Granularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/User Stories/Agile Granularity.md",
+                "file": "Software Architecture/Agile Granularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/User Stories/Agile Granularity.md"
+                "file": "Software Architecture/Agile Granularity.md"
               }
             }
           }
@@ -142,7 +142,7 @@
   "lastOpenFiles": [
     "Working from use cases to user stories to tasks.md",
     "Software Architecture/Agile Development.md",
-    "Software Architecture/User Stories/Agile Granularity.md",
+    "Software Architecture/Agile Granularity.md",
     "Software Architecture/User Stories/Agile Granularity Image.png",
     "Software Architecture/User Stories/User Stories.md",
     "Software Architecture/User Stories/Vertical Slice.md",
