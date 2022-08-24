@@ -1,6 +1,6 @@
 Often works as an alternative to [[Use Case]]s
 
-User stories are useful for the same reason use cases are; they communicate the why of a feature/use case without the how, such that a non-technical person can contribute to planning.
+User stories are useful for the same reason use cases are; they communicate the why of a feature/use case without the how, such that a non-technical person can contribute to planning. They should describe the shortest possible interaction with the system.
 
 ["As a PM, I want to communicate the why without dictating the how so that the engineers can develop a how based on user needs"](https://www.reddit.com/r/ProductManagement/comments/su7u0v/user_stories_love_them_hate_them_using_them_using/)
 
