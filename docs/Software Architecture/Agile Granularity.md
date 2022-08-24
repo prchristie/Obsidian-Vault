@@ -4,7 +4,7 @@ The top orange brick describes the goals of the business/software/application/et
 
 I do not understand Epics yet.
 
-[[User Stories]] are items that are small enough to be finished in a few days, and describe a single vertical slice of functionality. Whereas a [[Use Case]] might describe "Login" as a feature, [[User Stories]] might say "as a <[[Actor]]>, I want to be able to login, so that I can see data that belongs to me" < **This is a terrible example. TODO: Find a better example**
+[[User Stories]] are items that are small enough to be finished in a few days, and describe a single [[vertical slice]] of functionality. They are the smallest unit of work that represents some value to the user. Whereas a [[Use Case]] might describe "Login" as a feature, [[User Stories]] might say "as a <[[Actor]]>, I want to be able to login, so that I can see data that belongs to me" < **This is a terrible example. TODO: Find a better example**
 
 References:
 https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/
