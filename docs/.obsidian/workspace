@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Lifecycle/Agile/User story responsibilities.md",
+            "file": "Software Lifecycle/User Stories/Steps to write a good user story.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Lifecycle/Agile/User story responsibilities.md",
+                "file": "Software Lifecycle/User Stories/Steps to write a good user story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Lifecycle/Agile/User story responsibilities.md",
+                "file": "Software Lifecycle/User Stories/Steps to write a good user story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Lifecycle/Agile/User story responsibilities.md"
+                "file": "Software Lifecycle/User Stories/Steps to write a good user story.md"
               }
             }
           }
@@ -139,9 +139,9 @@
   },
   "active": "9633a57d3af57633",
   "lastOpenFiles": [
+    "Software Lifecycle/Agile/User story responsibilities.md",
     "Software Lifecycle/Agile/Acceptance Criteria.md",
     "Software Lifecycle/Agile/Agile Development.md",
-    "Software Lifecycle/Agile/User story responsibilities.md",
     "Software Lifecycle/Agile/Agile Granularity.md",
     "Software Lifecycle/User Stories/Vertical Slice.md",
     "Software Lifecycle/User Stories/Agile Granularity Image.png",
