@@ -1,26 +1,26 @@
-site_name: obsidian-mkdocs template
+site_name: Obsidian Notes
+site_description: 'My cool Obsidian notes'
+site_author: 'Patrick Christie'
+site_url: https://prchristie.github.io/Obsidian-Vault/
+docs_dir: './docs'
+repo_url: https://github.com/prchristie/Obsidian-Vault
+
+strict: false
 
 theme:
-    name: 'material'
-    palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  name: material
+  language: en
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  feature:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+  font:
+    text: 'Roboto'
+    code: 'Cascadia Code PL'
 
 # Extensions
 markdown_extensions:
@@ -45,11 +45,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
-  - mermaid2
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - minify:
+      minify_html: true
+      minify_js: true
