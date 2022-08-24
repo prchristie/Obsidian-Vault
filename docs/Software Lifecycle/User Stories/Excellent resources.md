@@ -1,0 +1,1 @@
+https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/

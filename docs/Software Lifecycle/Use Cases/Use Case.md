@@ -5,13 +5,15 @@ Abbreviation: **UC**
 Example: [[Loan book from library use case]]
 Related: [[Use Case Diagram]]
 
-A task that an [[Actor]] can perform with the help of the [[System]]. Set of actions that lead to the goal. Describes a singular feature provided by the system, where the feature could consist of multiple actions. 
+A task that an [[Actor]] can perform with the help of the [[System]]. Set of actions that lead to the goal. Describes a singular feature provided by the system, where the feature could consist of multiple actions.
 
-They are often an alternative to [[User Stories]]
+Use cases can be described at many different levels, notable named [[Use Case Descriptions]]. The most common are usually very high level.
+
+They are often an alternative to [[User Stories]], or perhaps a higher level kind of user story which can be used to create user stories.
 
 Example: Commenting on an article. Use case might be **Comment on article** but internally you need user auth, validation of entered data, etc
 
-It is often a good idea to try and start with a [[Scenario]]
+It is often a good idea to try and start with a [[Scenario]], a sentence description of the use case.
 
 Start with simple use cases when starting a project. The simpler ones will create the foundation for future implementation
 
