@@ -10,3 +10,4 @@ These are at what level we describe a [[Use Case]] in our system. From high leve
 
 References:
 https://www.youtube.com/watch?v=sQgoFjxSdxo
+https://www.youtube.com/watch?v=jtWj-rreoxs&list=PLlup9oTyUUAtzyYN30-qRrscg17EtQFbT&index=6
