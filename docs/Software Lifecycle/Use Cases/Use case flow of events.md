@@ -4,3 +4,6 @@ A [[use case]] and its steps should not have any **interruptions** - no steps th
 That would consistute a second, separate use case.
 
 The use case should **not** have any **IF statements**. These are also separate use cases
+
+References:
+https://www.youtube.com/watch?v=qHNSwJ_62U4

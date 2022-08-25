@@ -17,7 +17,8 @@ It is often a good idea to try and start with a [[Scenario]], a sentence descrip
 
 Start with simple use cases when starting a project. The simpler ones will create the foundation for future implementation
 
-Use cases can have multiple steps if they are complex. Steps should be based in business world
+Use cases can have multiple steps if they are complex. Steps should be based in business world. The steps should follow guidelines from [[Use case flow of events]]
+
 Description of a use case should include
 * Name of the use case/goal
 * [[Actor]]s
