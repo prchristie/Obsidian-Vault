@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "4f58e7159998afa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0482a9232238e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Lifecycle/Use Cases/Use Case Flow of Events.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3403853a0cf6b400",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9a2e42b985796e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b03296732d663de1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14d5deebc5f92cf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54be6a6b16ad20dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Software Lifecycle/Agile/Agile Granularity Image.png"
+              }
+            }
+          },
+          {
+            "id": "5c9dd4f82f5345c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d441d112f54517a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff674865275b85b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2b4dcf74e7bfdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Lifecycle/Use Cases/Use Case Flow of Events.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229059cc8a7f2005",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Lifecycle/Use Cases/Use Case Flow of Events.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23c56cb4b0e3d339",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67559a035e2d0236",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Lifecycle/Use Cases/Use Case Flow of Events.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c0482a9232238e0",
+  "lastOpenFiles": [
+    "Software Lifecycle/Use Cases/Use Case Flow as a Table.md",
+    "Software Lifecycle/Agile/Agile Granularity Image.png",
+    "Software Lifecycle/Use Cases/Use Case.md",
+    "Software Lifecycle/Use Cases/Use Case Diagram.md",
+    "Software Lifecycle/Use Cases/Use Case Flow as a Dialog.md",
+    "Software Lifecycle/Use Cases/Use Case Flow of Events.md",
+    "Software Lifecycle/Use Cases/Use Case Relationships.md",
+    "Software Lifecycle/Use Cases/Use case in use case diagram.png",
+    "Software Lifecycle/Use Cases/Use Case Descriptions.md",
+    "Software Lifecycle/Use Cases/Scenario.md"
+  ]
+}
