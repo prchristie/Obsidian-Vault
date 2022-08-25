@@ -1,0 +1,1 @@
+Stateless services inside the domain that perform domain logic that doesn't necessarily belong to any singular entity or value object. Domain services are especially useful if the domain logic happens to be working with multiple domain objects.
